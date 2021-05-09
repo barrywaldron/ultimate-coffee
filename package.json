@@ -1,0 +1,17 @@
+{
+  "name": "ultimate-coffee",
+  "version": "1.0.0",
+  "description": "ultimate coffee",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "barrywaldron",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/barrywaldron/ultimate-coffee.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
