@@ -1,0 +1,31 @@
+body {
+  font-family: 'Itim', cursive;
+  background: #f5f5dc;  
+}
+.wrapper {
+  margin: auto;
+  max-width: 980px;
+}
+.nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.nav-link {
+  margin-right: 10px;
+}
+.nav-link:last-child {
+  margin-right: 0;
+}
+ul {
+  list-style-type: none;
+}
+li {
+  display: inline;
+}
+a {
+  color: #000;
+  text-decoration: none;
+  padding: 10px 20px;
+}
