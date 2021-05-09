@@ -29,3 +29,11 @@ a {
   text-decoration: none;
   padding: 10px 20px;
 }
+.main {
+  position: relative;
+  padding-left: 100px;
+  padding-top: 200px;
+}
+img {
+  border-radius: 25%;
+}
