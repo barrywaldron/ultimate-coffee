@@ -37,7 +37,7 @@ a {
   padding-left: 100px;
   padding-top: 50px;
 }
-img {
+.main-img {
   border-radius: 25%;
 }
 .article {
@@ -50,6 +50,7 @@ img {
   justify-content: center;
 }
 img {
+  border-radius: 25%;
   width: 200px;
   height: 200px;
 }
